@@ -1,4 +1,4 @@
-# LSItoolkits
+# LSI toolkits
 <table><tr><th>A Final Year College Project . <tr><th> Helpful for Documents Ranking | File Summarizing | Website Text Parsing &amp; Summarizing .</tr></table>
 ## Algorithms Used
 <table>
