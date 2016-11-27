@@ -20,7 +20,7 @@
   
 </table>
 ## Goal
-<table><tr> <th>Accelerate Reasearch On Bangla Language Processing </th> </tr></table>
+<table><tr> <th>To Accelerate Reasearch On Bangla Language Processing </th> </tr></table>
 
 ## Screen Shots
 <table><tr>MainMenu</tr></table>
